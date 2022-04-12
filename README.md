@@ -20,9 +20,9 @@
 ## My stats
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBorba&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api?username=IvanBorba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/IvanBorba">
+<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBorba&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=IvanBorba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
 
