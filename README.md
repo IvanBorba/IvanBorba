@@ -7,7 +7,6 @@
 * 📚 Teaching and learning as an learning facilitator at Kenzie Academy Brasil;
 * 🧭 Exploring technologies everyday to develop software solutions to our world problems;
 * 🎓 Studying Mathematics at Universidade Estácio de Sá;
-* 👨‍💻 Creating tomorrow with technology;
 
 ## 🛠 Tech Stack
 
