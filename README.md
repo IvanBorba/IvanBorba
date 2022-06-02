@@ -4,7 +4,7 @@
 
 
 ## 💻 About me
-* 📚 Teaching and learning as an learning facilitator at Kenzie Academy Brasil;
+* 📚 Teaching and learning as an programming teacher at Blue EdTech;
 * 🧭 Exploring technologies everyday to develop software solutions to our world problems;
 * 🎓 Studying Mathematics at Universidade Estácio de Sá;
 
