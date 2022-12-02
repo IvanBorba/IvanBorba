@@ -3,10 +3,9 @@
 ### Welcome to my GitHub Profile! 😊
 
 
-## 💻 About me
-* 📚 Teaching and learning as an programming teacher at Blue EdTech;
+## About me
+* 💻 Working as a Front-end Developer at The Brooklyn Brothers;
 * 🧭 Exploring technologies everyday to develop software solutions to our world problems;
-* 🎓 Studying Mathematics at Universidade Estácio de Sá;
 
 ## 🛠 Tech Stack
 
