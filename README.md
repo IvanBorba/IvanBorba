@@ -4,7 +4,7 @@
 
 
 ## About me
-* 💻 Working as a Front-end Developer at The Brooklyn Brothers;
+* 💻 Working as a Full-stack Developer at Usys;
 * 🧭 Exploring technologies everyday to develop software solutions to our world problems;
 
 ## 🛠 Tech Stack
